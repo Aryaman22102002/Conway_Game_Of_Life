@@ -5,8 +5,8 @@ This repository contains my solution to JdeRobot's Python Challenge.
 
 ```
    ┣ 📂assets 
-   ┃ ┗ 📜Output.png                             # Output screenshot
-   ┣ 📂src                                      # The python and json files required for creating the game
+   ┃ ┗ 📜Output.png               # Output screenshot
+   ┣ 📂src                        # The python and json files required for creating the game
    ┃ ┗ 📜config.json                          
    ┃ ┗ 📜game.py                                
    ┃ ┗ 📜grid.py                               
