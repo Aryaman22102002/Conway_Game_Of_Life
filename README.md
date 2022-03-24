@@ -1,8 +1,22 @@
 # Conway_Game_Of_Life
 This repository contains my solution to JdeRobot's Python Challenge.
 
+## File Structure
+
+```
+   ┣ 📂assets 
+   ┃ ┗ 📜Output.png                             # Output screenshot
+   ┣ 📂src                                      # The python and json files required for creating the game
+   ┃ ┗ 📜config.json                          
+   ┃ ┗ 📜game.py                                
+   ┃ ┗ 📜grid.py                               
+   ┃ ┗ 📜main.py  
+   ┣ 📜.gitignore                           
+   ┣ 📜LICENSE
+   ┣ 📜README.md
+```  
 ## Output
 
 The following screenshot is my output.
 
-![Screenshot from 2022-03-22 21-56-00](https://user-images.githubusercontent.com/82901720/159658025-62fcb31d-6c09-4416-8a46-ff6bd4d31c5a.png)
+![Output](https://user-images.githubusercontent.com/82901720/159859712-a432e92b-5f6e-4524-b4cd-209a7654b1ad.png)
